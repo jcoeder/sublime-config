@@ -1,0 +1,2 @@
+OSX simlink 
+ln -sfv /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
